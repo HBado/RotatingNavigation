@@ -21,7 +21,7 @@ body {
         transform-origin: top left; /* sol üst köşeden dönmesini istedim karmaşayı engellemek için*/
         transition: transform 0.5s linear;
         width:100vw;
-        min-height: :100vh;
+        min-height: 100vh;
         padding: 50px;
     }
 
@@ -62,4 +62,3 @@ body {
         outline:none;
     }
 
-    
